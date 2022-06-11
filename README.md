@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PauloJDCM
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently writing my own SPA WebApp in Blazor
 
 <!---
 PauloJDCM/PauloJDCM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
